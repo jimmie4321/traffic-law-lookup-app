@@ -1,0 +1,13 @@
+SECTION_SUB,TYPE,OFFENSE_TITLE,FINE_MIN,FINE_MAX,JAIL_MIN,JAIL_MAX,PTS,SURCHARGE_OTHER_COURTS,SURCARGE_TOWN_VILLAGE
+1160-(c),,Improper left turn (one way street),$0,$150,0,15 D,2,$88,$93
+1160-(d),,Failed to turn as required,$0,$150,0,15 D,2,$88,$93
+1160-(e),,Improper U-turn,$0,$150,0,15 D,2,$88,$93
+1161,,U-turn at grade/curve,$0,$150,0,15 D,2,$88,$93
+1162,,Unsafe start,$0,$150,0,15 D,2,$88,$93
+1163-(a),,Improper or unsafe turn/without signal,$0,$150,0,15 D,2,$88,$93
+1163-(b),,Failed to signal for turn (insufficient notice),$0,$150,0,15 D,2,$88,$93
+1163-(c),,Failure to signal stopping (decreasing speed),$0,$150,0,15 D,2,$88,$93
+1163-(d),,Improper/no signal,$0,$150,0,15 D,2,$88,$93
+1163-(e),,Improper/failed to use four-way flasher,$0,$150,0,15 D,2,$88,$93
+1164-(a),,No signal lamps (certain vehicles),$0,$150,0,15 D,0,$88,$93
+1164-(b),,Failed to use signal lamps (certain vehicles),$0,$150,0,15 D,2,$88,$93

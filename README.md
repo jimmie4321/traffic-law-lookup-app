@@ -14,3 +14,8 @@ C:\apps\google-app-engine-sdk\appengine-java-sdk-1.9.26\bin\appcfg.cmd -A traffi
 
 //Push to Prod: Mac
 appcfg.sh -A trafficlawlookupapp update ~/traffic-law-lookup-app/target/trafficlawlookup-1.0-SNAPSHOT
+
+//Access admin side
+navigate: http://localhost:8080/login
+username: jimmie
+password: phish
